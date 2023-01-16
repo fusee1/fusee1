@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fuse</h1>
+<h1 align="center">Hi 👋, I'm @fusee1</h1>
 <h3 align="center">A learning developer from Finland</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
@@ -6,9 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/christian1x1x1" target="blank"><img src="https://img.shields.io/twitter/follow/christian1x1x1?logo=twitter&style=for-the-badge" alt="christian1x1x1" /></a> </p>
 
-- 🔭 I’m currently working on **studying**
-
-- 🌱 I’m currently learning **HTML and C++**
+- 🔭 I’m currently **studying**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
