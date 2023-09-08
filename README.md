@@ -1,6 +1,6 @@
 #                                                                    me
                                               I am currently studying and working on my own projects.
-                                                              Frontend>Backend
+                                                              Front-end>Backend
 
 
 # languages
