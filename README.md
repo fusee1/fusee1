@@ -12,9 +12,6 @@
 ![DreamViewer](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe-Dreamweaver&logoColor=white) <br>
 ![AfterEffects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe-After-Effects&logoColor=white) <br>
 
-### 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=fusee1&icon=7&color=0)](https://visitcount.itsvg.in)
 
