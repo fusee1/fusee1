@@ -1,6 +1,6 @@
-#                                                                    Me
-                                              I am currently studying and working on my own projects.
-                                                              Front-end>Backend
+# Me
+I am currently studying and working on my own projects.
+                                             
 
 
 # Languages
