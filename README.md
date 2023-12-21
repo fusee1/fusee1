@@ -1,5 +1,5 @@
 # Me
-I am currently studying and working on my own projects.
+<h2>I am currently studying and working on my own projects.</h2>
                                              
 
 
