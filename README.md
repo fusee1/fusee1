@@ -11,6 +11,7 @@
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white) <br>
 ![DreamViewer](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe-Dreamweaver&logoColor=white) <br>
 ![AfterEffects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe-After-Effects&logoColor=white) <br>
+![Tinder](https://img.shields.io/badge/Tinder-FF6B6B.svg?style=for-the-badge&logo=Tinder&logoColor=white)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=fusee1&icon=7&color=0)](https://visitcount.itsvg.in)
